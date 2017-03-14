@@ -1,0 +1,2 @@
+# wenguizhen.github.io
+blog
