@@ -8,6 +8,10 @@ body {
   color: #666;
 }
 
+a {
+  text-decoration: none;
+}
+
 .ib {display: inline-block;}
 
 .clearfix:after {clear:both;display:block;content:"\20"}
@@ -114,9 +118,7 @@ p {
 }
 
 #avatar:hover {
-  width: 200px;
-  height: 200px;
-  border: none;
+  transform: scale(1.5);
   border-radius: 0;
 }
 
